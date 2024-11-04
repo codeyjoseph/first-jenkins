@@ -1,7 +1,6 @@
 #!/bin/bash
-
-
 ls
-touch example.txt
+mkdir foldery
+cd foldery
 echo -n "The first string" >> example.txt
-ls
+pwd
